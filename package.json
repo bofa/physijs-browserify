@@ -1,0 +1,22 @@
+{
+  "name": "physijs-browserify",
+  "version": "0.0.1",
+  "description": "JavaScript 3D library",
+  "main": "physi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "physijs",
+    "browserify",
+    "module",
+    "threejs"
+  ],
+  "repository":
+  {
+    "type":"git",
+    "url" : "https://github.com/chandlerprall/Physijs"
+  },
+  "author": "silvio paganini and chanderprall",
+  "license": "ISC"
+}
