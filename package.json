@@ -1,7 +1,7 @@
 {
   "name": "physijs-browserify",
   "version": "0.0.1",
-  "description": "JavaScript 3D library",
+  "description": "PhysiJS for browserify",
   "main": "physi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,11 @@
   "repository":
   {
     "type":"git",
-    "url" : "https://github.com/chandlerprall/Physijs"
+    "url" : "git@github.com:silviopaganini/physijs-browserify.git"
+  },
+  "homepage": "https://github.com/chandlerprall/Physijs",
+  "bugs": {
+    "url": "https://github.com/chandlerprall/Physijs/issues"
   },
   "author": "silvio paganini and chanderprall",
   "license": "ISC"
